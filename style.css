@@ -3,4 +3,10 @@
   height: 50px;
   background-color: black;
   color: white;
+  border: 10px;
+  border-radius: 15px;
+}
+
+body {
+  background-color: gray;
 }

@@ -1,9 +1,9 @@
 .shrug {
-  width: 100px;
+  width: 75px;
   height: 25px;
   background-color: black;
   color: white;
-  border: solid 5px white;
+  border: solid 3px white;
   border-radius: 25px;
 }
 
